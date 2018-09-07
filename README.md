@@ -1,2 +1,2 @@
 # speech-recognition-app
-This is a speech recognition app with javascript 
+Speech recognition app with vanilla javascript 
